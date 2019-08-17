@@ -11,7 +11,7 @@ This project is using for PRE-TEST FOR BACKEND ENGINEER in Warung Pintar.
 # to use:
 - Using postman, create POST method for add message with: <br />
   URL: http://localhost:8080/message <br />
-  Body: {
+  Example Body Request: {
           "message": "demoData"
         }
 
